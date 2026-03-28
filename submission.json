@@ -1,6 +1,6 @@
 {
-  "prompt": "A cinematic photograph of a tightrope walker balancing carefully between two contrasting physical structures, one side a rigid minimalist stone statue with smooth surfaces, the other side an extremely complex tangled metal sculpture with chaotic intricate shapes, realistic environment, dramatic lighting, physically plausible scene, no text, no symbols, no diagrams, no labels, single frame, metaphor for balancing simplicity and complexity, ultra detailed, 4k",
+  "prompt": "A hyper-realistic, cinematic close-up photograph taken inside a high-end, minimalist tailor’s atelier. Centered is a surreal garment: a sophisticated, tweed three-piece suit that has been meticulously sewn to fit the complex, jagged, lumpy contours of a large, gnarled tree stump. The fabric hugs every random, mossy protrusion, crack, and chaotic twist of the wood perfectly, showing extreme detail in the stitching where it follows the noise of the bark. The stump is fixed to a smooth concrete display pedestal. The background is softly blurred but shows other normal suit forms. No text, no diagrams, no floating annotations. Masterpiece, 8k, natural studio lighting.",
   "model": "GPT Image / DALL·E 3 class",
-  "concept": "bias-variance tradeoff",
-  "metaphor": "A tightrope walker balancing between overly simple and overly complex structures represents balancing underfitting and overfitting."
+  "concept": "overfitting",
+  "metaphor": "A sophisticated suit meticulously tailored to the random, chaotic contours of a tree stump represents a model perfectly fitting training-data noise, rendering it useless for any functional purpose."
 }
